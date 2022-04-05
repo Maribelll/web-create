@@ -1,0 +1,4 @@
+User-agent: *
+Dissalow: /send.html
+/http://artellecreative.com/index
+
